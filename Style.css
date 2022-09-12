@@ -1,0 +1,16 @@
+body{
+    background:linear-gradient(#3AAFA9,#17252A);
+    height: 90em;
+}
+header{
+    background-color: #17252A;
+    height: 6em;
+    color: gray;
+}
+#works{
+    margin-bottom:1em;
+    color: rgb(181, 243, 243)
+}
+html{
+    scroll-behavior: smooth;
+}
